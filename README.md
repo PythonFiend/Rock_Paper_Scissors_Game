@@ -18,5 +18,6 @@ Features:
         rock.gif
         paper.gif
         scissors.gif
+        letsplay.gif
 
 Note: The images are not mine. I could not find the owner/creator. If you are the creator and want them removed, let me know!
